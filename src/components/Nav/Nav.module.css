@@ -1,0 +1,29 @@
+.nav {
+    background-color: rgba(224, 215, 217, 0.8);
+    display: flex;
+    padding: 17px;
+    margin-bottom: 30px;
+    align-items: baseline;
+    padding-right: 30%;
+    padding-left: 30%;
+
+
+
+
+
+}
+
+.links {
+    display: flex;
+    padding: 5px;
+}
+
+.botones {
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 4px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(75, 74, 74);
+}

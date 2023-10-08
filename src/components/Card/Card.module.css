@@ -1,0 +1,70 @@
+.portrait{
+    position: relative;
+    bottom: 35%;
+  
+}
+
+.container{
+    padding: 10px;
+    width: 300px;
+    height: 530px;
+    display: inline-block;
+    font-size: small;
+    background-color: #222121;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.texto{
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.nombre {
+    color: white;
+    top: 400px;
+    right: 0px;
+    text-align: left;
+}
+
+.origen {
+    top: 180px;
+}
+
+.status {
+    color: rgb(47, 255, 47);
+    text-align: left;
+    top: 400px;
+}
+
+.especie {
+    text-align: right;
+    top: 315px;
+}
+
+.genero {
+    text-align: right;
+    top: 315px;
+}
+
+.equis {
+    position: relative;
+    color: white;
+    font-weight: 600;
+    font-size: large;
+    border-radius: 5px;
+    background-color: red;
+    border-width: 1px;
+    left: 115px;
+    top: 8px;
+}
+
+.favorito {
+    position: relative;
+    right: 100px;
+    top: 7.5px;
+    padding: 1px;
+    background-color: black;
+
+}

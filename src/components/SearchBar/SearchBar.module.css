@@ -1,0 +1,24 @@
+.barra {
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.boton {
+    color: white;
+    border-radius: 4px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    padding: 3px;
+    margin-left: 10px;
+}
+
+/* .BarraGen {
+    margin-bottom: 20px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: right;
+    padding-right: 27px;
+    text-align: center;
+    
+} */
